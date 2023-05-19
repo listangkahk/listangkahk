@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://listangkahk.github.io/sitemap.xml
